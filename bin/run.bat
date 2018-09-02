@@ -1,0 +1,1 @@
+java -cp ../lib/easypastry.jar;../lib/pastry.jar;../lib/bunshin.jar;../lib/jdom.jar;../lib/xstream.jar %*

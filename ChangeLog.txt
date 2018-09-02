@@ -1,0 +1,19 @@
+* Version 1.0 :
+
+- Minor bugs fixed
+  * isAlive bug fixed
+
+- Fully Tested
+  * JUnit 4
+
+* Version 0.2 :
+
+- New CastFilter API
+
+- JUnit Test changes
+
+- Adapted to work with FreePastry 2.1 :
+    - CAST : Some scribe changes (deprecated classes).
+	- DHT and CAST apps must be registered before the bootstrap (booNode method).
+	- KBR : bootstrapping changed
+	
