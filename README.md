@@ -1,4 +1,4 @@
-# EasyPastry: a façade to simplify the P2P application development
+# EasyPastry: a façade to simplify the P2P app dev
 
 EasyPastry is built on top of Pastry, a decentralized key-based routing (KBR) P2P overlay network. The main objective of EasyPastry is to provide a complete façade in order to simplify the p2p application development.
 
